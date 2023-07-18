@@ -23,6 +23,8 @@ https://www.sarasoueidan.com/blog/building-a-circular-navigation-with-svg/
 https://www.cssscript.com/corner-radial-menu/,https://jquery-plugins.net/wheelnav-js-animated-circular-navigation-component,https://www.youtube.com/watch?v=9li7UcMuwKI,https://www.youtube.com/watch?v=hBr6AhLx4xc,https://www.youtube.com/watch?v=zwl3kZPZ8H8,https://www.youtube.com/watch?v=_s0rqUkQkrQ,https://www.youtube.com/watch?v=uzNp-pfV7vE,https://webdevtrick.com/css-circle-menu/
 
 
+https://codefronts.com/css-circular-menus/ (nice)a
+
 Sidebar
 https://www.youtube.com/watch?v=Fx_NpAPM-iU
 https://www.youtube.com/watch?v=uy1tgKOnPB0
@@ -34,4 +36,4 @@ https://www.youtube.com/watch?v=bFvfqUMjvsA
 bleh codinglab dashboard
 https://www.youtube.com/watch?v=AyV954yKRSw
 
-(CSSScript, JQueryScript, Coding Nepal, Coding Lab, Coding Shiksha)
+(CodeFronts (like freefrontend),CSSScript, JQueryScript, Coding Nepal, Coding Lab, Coding Shiksha)
